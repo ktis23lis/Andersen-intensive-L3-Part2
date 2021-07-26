@@ -2,4 +2,6 @@
     <string name="app_name">LoadImage</string>
     <string name="push_url">push url</string>
     <string name="push">push</string>
+    <string name="error">Error</string>
+    <string name="enter_url">Enter url</string>
 </resources>
