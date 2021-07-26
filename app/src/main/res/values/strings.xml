@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadImage</string>
+    <string name="push_url">push url</string>
+    <string name="push">push</string>
+</resources>
